@@ -127,10 +127,6 @@ a{
     text-transform: uppercase;
 }
 
-#bottom-cta a{
-    background: #5cc6d0;
-}
-
 #bottom-cta .hold {
     background: url(cta-bg.jpg);
     padding: 42px 60px 56px;
@@ -241,7 +237,6 @@ a.terms-link {
     
     .col-1-4 a{
         text-align: center;
-        display: block;
     }
 
     .midheader .container {
@@ -258,27 +253,7 @@ a.terms-link {
         padding-left: 10px;
     }
 
-    img{
+    *{
         max-width: 100%;
-        max-height: 100%;
-        display: block; /* remove extra space below image */
     }
-
-    .hold{
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        flex-direction: column;
-        justify-content: center;
-    }
-
-    #bottom-cta .col-1-4 {
-    text-align: right;
-    padding-top: 30px;
-}
-
-.col-1-4 a{
-    text-align: center;
-    display: block;
-}
   }
