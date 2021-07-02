@@ -127,6 +127,10 @@ a{
     text-transform: uppercase;
 }
 
+#bottom-cta a{
+    background: #5cc6d0;
+}
+
 #bottom-cta .hold {
     background: url(cta-bg.jpg);
     padding: 42px 60px 56px;
@@ -268,7 +272,7 @@ a.terms-link {
     }
 
     #bottom-cta .col-1-4 {
-        text-align: right;
-        padding-top: 30px;
-    }
+    text-align: right;
+    padding-top: 30px;
+}
   }
