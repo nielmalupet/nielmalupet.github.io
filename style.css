@@ -241,6 +241,7 @@ a.terms-link {
     
     .col-1-4 a{
         text-align: center;
+        display: block;
     }
 
     .midheader .container {
@@ -274,5 +275,10 @@ a.terms-link {
     #bottom-cta .col-1-4 {
     text-align: right;
     padding-top: 30px;
+}
+
+.col-1-4 a{
+    text-align: center;
+    display: block;
 }
   }
