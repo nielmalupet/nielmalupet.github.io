@@ -252,4 +252,8 @@ a.terms-link {
     .gocrayons{
         padding-left: 10px;
     }
+
+    *{
+        max-width: 100%;
+    }
   }
